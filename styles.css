@@ -1,0 +1,7 @@
+.background-image {
+    background-image: url('./Images/Iron\ Man\ New\ Element.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-position: center center;
+}
